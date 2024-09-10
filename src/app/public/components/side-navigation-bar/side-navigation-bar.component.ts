@@ -11,7 +11,7 @@ import {Article} from "../../../news/model/article.entity";
 import {Source} from "../../../news/model/source.entity";
 import {NewsApiService} from "../../../news/services/news-api.service";
 import {LogoApiService} from "../../../shared/services/logo-api.service";
-import * as console from "node:console";
+//import * as console from "node:console";
 
 @Component({
   selector: 'app-side-navigation-bar',
